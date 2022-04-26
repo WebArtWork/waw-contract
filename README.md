@@ -1,1 +1,1 @@
-# waw-ngx
+# waw-contract
